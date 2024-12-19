@@ -1,0 +1,26 @@
+{
+  "name": "youchat-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "crypto-js": "^4.2.0",
+    "docx": "^8.5.0",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^7.0.5",
+    "localtunnel": "^2.0.2",
+    "ngrok": "^5.0.0-beta.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer-real-browser": "^1.2.18",
+    "socket.io-client": "^4.8.0",
+    "socks-proxy-agent": "^8.0.4",
+    "uuid": "^9.0.1"
+  }
+}

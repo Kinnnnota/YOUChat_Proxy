@@ -1,0 +1,26 @@
+{
+  "timestamp": "2024-12-18T06:50:01.931Z",
+  "totalTimeSeconds": 34.435,
+  "model": "openai_o1",
+  "validSessionCount": 10,
+  "results": [
+    {
+      "userId": "q514149376@gmail.com",
+      "message": "你好，我是用户1，请给我讲个笑话。",
+      "response": "Error: net::ERR_ABORTED at https://you.com",
+      "success": false
+    },
+    {
+      "userId": "q514149376@gmail.com",
+      "message": "你好，我是用户2，请帮我写一首诗。",
+      "response": "Error: net::ERR_ABORTED at https://you.com",
+      "success": false
+    },
+    {
+      "userId": "q514149376@gmail.com",
+      "message": "你好，我是用户3，请介绍一下你自己。",
+      "response": "Request timeout after 30 seconds",
+      "success": false
+    }
+  ]
+}
